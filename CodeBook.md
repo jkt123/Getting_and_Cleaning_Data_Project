@@ -2,7 +2,7 @@
 
 ## Identifiers
 
-"subjectID"  -- ID of subject i.e. person 
+"subjectID"  -- ID of subject i.e. person    
 "activity" --  (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
 ## Measurement
