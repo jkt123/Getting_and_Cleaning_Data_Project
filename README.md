@@ -29,16 +29,16 @@ Brief description about script
 ## Step 1 -- read the data files
 
 ## Step 2 process raw data x, y & subject and merge them with rbind function
- ## Appropiratly name the merged data frames
-	## Extract mean and std_dev related features's data
+### Appropiratly name the merged data frames
+### Extract mean and std_dev related features's data
 	
 ## Step 4 create final data frame need to print out final txt file & print txt file
-  ## Step 4.1
-  ## Melt the dataset
-  ## Step 4.2
-  ## Re-cast the data
-  ## Step 4.3
-  ## Print table
+### Step 4.1
+### Melt the dataset
+### Step 4.2
+### Re-cast the data
+### Step 4.3
+### Print table
 
 
 Script generates tidy_data_set.txt as final output
