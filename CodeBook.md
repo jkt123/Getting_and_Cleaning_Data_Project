@@ -69,13 +69,11 @@ Mean_<function reported from sensors>
 "Mean_fBodyGyro-std()-Z"          
 "Mean_fBodyAccMag-mean()"        
 "Mean_fBodyAccMag-std()"          
-"Mean_fBodyBodyAccJerkMag-mean()" 
+"Mean_fBodyBodyAccJerkMag-mean()"  
 "Mean_fBodyBodyAccJerkMag-std()"  
-
 "Mean_fBodyBodyGyroMag-mean()"   
 "Mean_fBodyBodyGyroMag-std()"      
-"Mean_fBodyBodyGyroJerkMag-mean()"
-
+"Mean_fBodyBodyGyroJerkMag-mean()"  
 "Mean_fBodyBodyGyroJerkMag-std()" 
 
 
