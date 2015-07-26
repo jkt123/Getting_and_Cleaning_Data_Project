@@ -2,7 +2,7 @@
 
 This is the course project for the Getting and Cleaning Data Coursera course. 
 
-Pre-requisite for running the script
+##Pre-requisite for running the script
 
 1. Download the dataset if it does not already exist in the working directory, where run_analysis.R will reside
 2. Inside working directory, Unzipped data should reside in a directory called "UCI HAR Dataset"
@@ -24,7 +24,7 @@ The dataset includes the following files:
  
  'test/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
-Brief description about script 
+##Brief description about script 
 
 ### Step 1 -- read the data files
 
