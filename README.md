@@ -23,3 +23,7 @@ The dataset includes the following files:
  'test/y_test.txt': Test labels.
  
  'test/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+
+Brief description about script can be found in codebook.md
+
+Script generate tidy_data_set.txt as final output
