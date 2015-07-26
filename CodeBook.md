@@ -7,7 +7,8 @@
 
 ## Measurement
 Variable name follows following format
-Mean_(function reported from sensors)
+
+### Mean_(function reported from sensors)
 
 "Mean_tBodyAcc-mean()-X"           
 "Mean_tBodyAcc-mean()-Y"          
