@@ -34,9 +34,9 @@ The dataset includes the following files:
 	
 #### Step 3 create final data frame need to print out final txt file & print txt file
 ##### Step 3.1
-##### Melt the dataset
+##### Melt the dataset with id = subjectID, activity
 ##### Step 3.2
-##### Re-cast the data
+##### Re-cast the data with subjectID + activity as variable and calculate the mean
 ##### Step 3.3
 ##### Print table
 
